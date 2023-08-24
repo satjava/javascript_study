@@ -18,5 +18,5 @@ app.use(router.students);
 app.use(router.exams);
 
 app.listen(port,()=>{
-	console.log("api is running")
+	console.log("api is running on nodejs")
 })
